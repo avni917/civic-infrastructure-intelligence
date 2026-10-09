@@ -1,7 +1,3 @@
-# civic-infrastructure-intelligence
-A civic decision-support platform that transforms citizen reports into verified infrastructure incidents, prioritizes repairs, optimizes resource allocation, and identifies recurring civic issues.
-
-
 # Civic Infrastructure Intelligence
 
 A data-driven civic decision-support platform designed to help identify, prioritize, and resolve recurring infrastructure problems.
