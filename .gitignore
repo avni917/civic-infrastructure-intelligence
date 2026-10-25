@@ -133,3 +133,7 @@ __marimo__/
 
 .venv/
 backend/.venv/
+
+.env
+.env.*
+!.env.example
